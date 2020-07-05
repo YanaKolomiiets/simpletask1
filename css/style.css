@@ -1,0 +1,38 @@
+header{
+background-color: #a52a2a;
+text-align: center;
+}
+
+article{
+    font-size: 18px;
+}
+
+.italic{
+    color: #002cff;
+    font-style: italic;
+}
+
+.blue{
+    color: blue;
+}
+
+.pictures{
+    width: auto;
+    text-align: center;
+}
+
+.border-blue{
+    border-color: black;
+    border-width: 3px;
+    border-style: dashed;
+}
+
+footer{
+background-color: black;
+}
+
+h6{
+    color: whitesmoke;
+    font-size: 20px;
+    text-align: center;
+}
